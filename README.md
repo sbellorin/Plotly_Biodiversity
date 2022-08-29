@@ -15,7 +15,7 @@ This project consisted on creating a dashboard that displayed information about 
 
 
 ## Results
-The final result was an interactive [dashboard](https://sbellorin.github.io/Plotly_Biodiversity/) presented in a convinient way to end users through Github Pages. 
+The final result was an interactive [dashboard](https://sbellorin.github.io) presented in a convinient way to end users through Github Pages. 
 
 ![screenshot](https://github.com/sbellorin/Plotly_Biodiversity/blob/9a4f61271801efca22d061c6ccac8c41ec06b2d5/Screen%20Shot%202022-08-29%20at%2012.38.09%20PM.png)
 
